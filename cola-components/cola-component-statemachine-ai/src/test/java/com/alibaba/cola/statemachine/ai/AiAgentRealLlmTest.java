@@ -45,7 +45,7 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
  *   -Dtest=AiAgentRealLlmTest -am -ntp
  * </pre>
  *
- * @author COLA AI Extension
+ * @author xiaowu
  */
 @Tag("llm-integration")
 @DisplayName("AI Agent — 真实 LLM 集成测试")
